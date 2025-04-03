@@ -1,8 +1,8 @@
 {"success":"You can support this repository - https://not.ultranx.ru/donate\nBest Switch CFW - https://ultranx.ru","files":[
 {"url":"https://api.ultranx.ru/download/01001E500F7FC000/base##Funtime2 [01001E500F7FC000][v0].nsz","size":172329695},
 {"url":"https://api.ultranx.ru/download/01001E500F7FC000/update##Funtime2 [01001E500F7FC800][v65536].nsz","size":45046927},
-{"url":"http://192.168.1.86:8080/files/base##Legacy of Kain Soul Reaver 1 and 2 Remastered [01101E500F7FC000][v0].nsz","size":172329695},
-{"url":"http://192.168.1.86:8080/files/update##Legacy of Kain Soul Reaver 1 and 2 Remastered [01101E500F7FC800][v65536].nsz","size":45046927},
+{"url":"http://192.168.1.86:8080/files/base%23%23Legacy%20of%20Kain%20Soul%20Reaver%201%20and%202%20Remastered%20%5B01101E500F7FC000%5D%5Bv0%5D.nsz","size":172329695},
+{"url":"http://192.168.1.86:8080/files/update%23%23Legacy%20of%20Kain%20Soul%20Reaver%201%20and%202%20Remastered%20%5B01101E500F7FC800%5D%5Bv65536%5D.nsz","size":45046927},
 
 {"url":"http://192.168.1.86:8080/files/base%23Xenoblade%20Chronicles%20X%20Definitive%20Edition%20%5B0100453019AA8000%5D%5Bv0%5D.nsz","size":13644474360},
 {"url":"http://192.168.1.86:8080/files/update%23Xenoblade%20Chronicles%20X%20Definitive%20Edition%20%5B0100453019AA8800%5D%5Bv65536%5D.nsz","size":96147414},
